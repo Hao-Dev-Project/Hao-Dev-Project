@@ -6,7 +6,7 @@
 - 📫 How to reach me **haodev.web@gmail.com**
 
 
-<<h3 align="left">Learing Now:</h3>
+<h3 align="left">Learing Now:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=android,arduino,c,cpp,js,kotlin,linux,nextjs&perline=15" />
