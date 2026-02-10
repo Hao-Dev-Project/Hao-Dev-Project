@@ -1,69 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hao</h1>
+<h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-  <h1>Hello 👋, here is <br/> Hao . dev </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hao.;ROS2+Developer.;CTF+Player." alt="Typing SVG" />
+- 🌱 I’m currently learning **Next.js,Labview,C++,C**
 
-  <br/><br/>
+- 📫 How to reach me **haodev.web@gmail.com**
 
-  <img src="https://img.shields.io/badge/Achievement-Level%20Up!-orange?style=for-the-badge&logo=appveyor" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-</div>
-
-<br/>
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 About me</h3>
-      <br/>
-      
-      Student from <b>KLCIVS</b>.
-      <br/>
-      專注於 <b style="color:orange">ROS2</b> 與嵌入式系統開發，
-      熱愛 Cybersecurity 與開發新技術。
-      <br/><br/>
-      
-      Currently a CTF player. 🚩
-      
-      <br/><br/>
-      
-      - 🔭 I’m currently working on **Triangle Robot**
-      - 🌱 I’m currently learning **ROS2 & Linux**
-      - 📫 How to reach me: **haodrive@gmail.com**
-      - ⚡ Fun fact: **I use Arch btw (開玩笑的)**
-      
-      <br/>
-      
-      <a href="https://github.com/你的帳號">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
-      <a href="mailto:你的Email">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-      </a>
-      
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/你的帳號/你的倉庫名/blob/main/me.png?raw=true" width="200px" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <h3>💻 Tech Stack</h3>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> </p>
