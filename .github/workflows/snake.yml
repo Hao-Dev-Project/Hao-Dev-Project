@@ -4,23 +4,38 @@ on:
   # 每天午夜自動執行
   schedule:
     - cron: "0 0 * * *" 
-  # 允許手動執行
+  
+  # 允許手動執行 (去 Actions 頁面按 Run workflow)
   workflow_dispatch:
+  
+  # 當 main 分支有推送時也執行 (測試用)
+  push:
+    branches:
+    - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          # 換成你的 GitHub 帳號
+          # 把這裡換成你的 GitHub ID (大小寫最好一致)
           github_user_name: Hao-Dev-Project
-          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          # 輸出的圖片檔名
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          # 這裡很重要！它會把圖片推送到一個叫 output 的分支
           target_branch: output
           build_dir: dist
         env:
