@@ -6,7 +6,7 @@
   <br/>
 
   <p>
-    🌱 I'm currently learning <b>Next.js, LabVIEW, C++, C</b>
+    🌱 I'm currently learning <b>Next.js, LabVIEW, C++</b>
     <br/>
     📫 How to reach me <b>haodev.web@gmail.com</b>
   </p>
@@ -15,7 +15,7 @@
 
   <h3>🛠️ Learning Now</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,js,kotlin,linux,nextjs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,Nextjs,&perline=7" />
   </a>
 
   <br/><br/>
