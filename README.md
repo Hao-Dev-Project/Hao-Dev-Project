@@ -15,7 +15,7 @@
 
   <h3>🛠️ Learning Now</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,Nextjs,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,nextjs,&perline=7" />
   </a>
 
   <br/><br/>
